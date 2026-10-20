@@ -1,0 +1,99 @@
+
+[
+  {
+    "id": "people-001",
+    "topic": "people",
+    "isValues": false,
+    "question": "Which city is the capital of Australia?",
+    "options": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Perth"
+    ],
+    "answer": 2,
+    "explanation": "Canberra is Australia's capital city. The national Parliament and many federal government institutions are located there.",
+    "source": "Australian Citizenship: Our Common Bond — Australia and its people",
+    "difficulty": "easy"
+  },
+  {
+    "id": "people-002",
+    "topic": "people",
+    "isValues": false,
+    "question": "How many states does Australia have?",
+    "options": [
+      "Four",
+      "Five",
+      "Six",
+      "Seven"
+    ],
+    "answer": 2,
+    "explanation": "Australia has six states. It also has territories, including the Australian Capital Territory and the Northern Territory.",
+    "source": "Australian Citizenship: Our Common Bond — Australia and its people",
+    "difficulty": "easy"
+  },
+  {
+    "id": "government-001",
+    "topic": "government",
+    "isValues": false,
+    "question": "What is the name of Australia's national Parliament?",
+    "options": [
+      "The Federal Parliament",
+      "The State Assembly",
+      "The National Council",
+      "The Commonwealth Court"
+    ],
+    "answer": 0,
+    "explanation": "Australia's national Parliament makes federal laws and consists of the King, represented by the Governor-General, the Senate and the House of Representatives.",
+    "source": "Australian Citizenship: Our Common Bond — Government and the law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "democracy-001",
+    "topic": "democracy",
+    "isValues": false,
+    "question": "What does freedom of speech generally allow people to do in Australia?",
+    "options": [
+      "Say anything without any legal limits",
+      "Express their opinions within the law",
+      "Ignore laws they disagree with",
+      "Prevent other people from expressing different views"
+    ],
+    "answer": 1,
+    "explanation": "People can express opinions within the law. Freedom of speech does not mean that every statement or action is lawful.",
+    "source": "Australian Citizenship: Our Common Bond — Democratic beliefs, rights and liberties",
+    "difficulty": "medium"
+  },
+  {
+    "id": "values-001",
+    "topic": "values",
+    "isValues": true,
+    "question": "Which statement best reflects equality under Australian law?",
+    "options": [
+      "The law applies only to citizens",
+      "Some people are above the law",
+      "Everyone is equal under the law",
+      "The law changes according to personal popularity"
+    ],
+    "answer": 2,
+    "explanation": "Equality under the law means that people are subject to the law and should receive equal treatment under it.",
+    "source": "Australian Citizenship: Our Common Bond — Australian values",
+    "difficulty": "easy"
+  },
+  {
+    "id": "values-002",
+    "topic": "values",
+    "isValues": true,
+    "question": "Which action is consistent with respecting freedom of religion in Australia?",
+    "options": [
+      "Forcing everyone to follow one religion",
+      "Respecting other people's lawful religious beliefs",
+      "Preventing people from changing their religion",
+      "Giving everyone the same personal beliefs"
+    ],
+    "answer": 1,
+    "explanation": "Australia respects freedom of religion. People may follow a religion or have no religious beliefs, subject to Australian law.",
+    "source": "Australian Citizenship: Our Common Bond — Australian values",
+    "difficulty": "medium"
+  }
+]
